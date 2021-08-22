@@ -50,3 +50,5 @@ console.log(add(3, 4)); //This should print 7 in the console
 ```bash
 npm start
 ```
+
+> https://docs.github.com/en/actions/guides/publishing-nodejs-packages
