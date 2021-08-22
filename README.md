@@ -51,5 +51,11 @@ console.log(add(3, 4)); //This should print 7 in the console
 npm start
 ```
 
+```text
+// .npmrc
+//npm.pkg.github.com/:_authToken=TOKEN
+@OWNER:registry=https://npm.pkg.github.com
+```
+
 > https://docs.github.com/en/actions/guides/publishing-nodejs-packages
 > https://docs.github.com/en/packages/working-with-a-github-packages-registry/working-with-the-npm-registry
