@@ -52,3 +52,4 @@ npm start
 ```
 
 > https://docs.github.com/en/actions/guides/publishing-nodejs-packages
+> https://docs.github.com/en/packages/working-with-a-github-packages-registry/working-with-the-npm-registry
