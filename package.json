@@ -1,15 +1,15 @@
 {
   "name": "@resultakak/nodejs-es6-example",
   "version": "1.0.0",
-  "description": "",
+  "description": "Nodejs ES6 Example",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon --exec node_modules/.bin/babel-node index.js"
   },
   "keywords": [],
-  "author": "Resul Takak",
-  "license": "ISC",
+  "author": "Resul Takak <resultakak@gmail.com>",
+  "license": "MIT",
   "devDependencies": {
     "@babel/cli": "^7.14.8",
     "@babel/core": "^7.15.0",
@@ -20,5 +20,8 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/resultakak/nodejs-es6-example.git"
+  },
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com"
   }
 }
